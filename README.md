@@ -95,3 +95,4 @@ Set `VITE_API_URL` in `frontend/.env` if the API is hosted somewhere other than 
 - `GET /health`
 
 All Forest Officer and EB Officer API endpoints require a valid bearer token and enforce the matching role.
+"# eletric" 
